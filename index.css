@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background: #ffffff4a;
+    backdrop-filter: blur(10px);
+}
+section{
+    position: relative;
+    top: 100px;
+}
+
+#cosbut{
+    background-color: rgb(255, 136, 0);
+    border-radius: 2rem;
+    font-size: 1rem;
+}
+#cosbutout{
+    border: 1px solid #000;
+    border-radius: 2rem;
+    font-size: 1rem;
+}
